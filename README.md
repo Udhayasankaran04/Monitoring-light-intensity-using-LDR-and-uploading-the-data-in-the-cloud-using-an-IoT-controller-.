@@ -260,7 +260,7 @@ ldr_value:1dr1
 ```
 # OUTPUT:
 
-![WhatsApp Image 2024-05-16 at 14 57 20_c96529a3](https://github.com/naveen-m0804/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/117974950/5032c6cf-8d68-4df0-bfd9-1ec43d8fa734)
+<img src="https://github.com/naveen-m0804/Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-./assets/117974950/5032c6cf-8d68-4df0-bfd9-1ec43d8fa734" width="500" height="300">
 
 # RESULT:
 
